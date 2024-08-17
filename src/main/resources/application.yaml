@@ -2,7 +2,7 @@ server:
   port: 8888
 spring:
   application:
-    name: hmdp
+    name: rrfx
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://192.168.214.128:3306/hmdp?useSSL=false&serverTimezone=UTC
